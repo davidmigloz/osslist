@@ -1,0 +1,9 @@
+dependencies {
+    implementation appDependencies.kotlinStdlib
+    implementation appDependencies.androidXCore
+    implementation appDependencies.androidXKtx
+    implementation appDependencies.appcompat
+    implementation appDependencies.materialComponents
+    implementation appDependencies.annotations
+    implementation appDependencies.constraintLayout
+}
